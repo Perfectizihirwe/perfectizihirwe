@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Perfect Gift IZIHIRWE</h1>
+<h3 align="center">A passionate Mobile developer from Kigali, Rwanda.</h3>
 
-<!--
-**Perfectizihirwe/perfectizihirwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a trainee at [KLAB](https://www.klab.rw/)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **React Native @Klab and Python @alx**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **perfectizihirwe@gmail.com**
+
+- ⚡ Fun fact **I spend more than 50% of my day laughing**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/perfectizihirwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="perfectizihirwe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/perfectizihirwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perfectizihirwe" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfectizihirwe&show_icons=true&locale=en&layout=compact" alt="perfectizihirwe" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perfectizihirwe&show_icons=true&locale=en" alt="perfectizihirwe" /></p>
+
