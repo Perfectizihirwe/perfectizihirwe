@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently a trainee at [KLAB](https://www.klab.rw/)
 
-- 🌱 I’m currently learning **React Native @Klab and Python @alx**
+- 🌱 I’m currently learning React Native @ [KLAB](https://www.klab.rw/) and Software Engineering @ [ALX](https://www.alxafrica.com/software-engineering-2022?gclid=CjwKCAjwquWVBhBrEiwAt1KmwmHgYbBDrbQqckjhMMOAs_KKa04B_aS3zcP37wfwTGe-0_vWxitDRBoC80cQAvD_BwE)
 
-- 📫 How to reach me **perfectizihirwe@gmail.com**
+- 📫 You can reach me at **perfectizihirwe@gmail.com**
 
 - ⚡ Fun fact **I spend more than 50% of my day laughing**
 
