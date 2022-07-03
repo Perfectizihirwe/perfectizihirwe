@@ -25,4 +25,5 @@
 <h2> Languages </h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfectizihirwe&show_icons=true&locale=en&hide=C,shell&theme=radical" alt="perfectizihirwe" /></p>
 
-
+<h2> Here is a random joke that'll make you laugh! </h2>
+<p><img align="center" src="https://readme-jokes.vercel.app/api" alt="Random joke" /></p>
