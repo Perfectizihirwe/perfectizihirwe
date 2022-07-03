@@ -16,5 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perfectizihirwe&show_icons=true&locale=en&layout=compact" alt="perfectizihirwe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perfectizihirwe&show_icons=true&locale=en" alt="perfectizihirwe" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perfectizihirwe&show_icons=true&locale=en" alt="perfectizihirwe" /></p> -->
 
