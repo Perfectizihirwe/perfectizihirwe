@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Perfect Gift IZIHIRWE</h1>
 <h3 align="center">A passionate Mobile developer from Kigali, Rwanda.</h3>
 
-- 🔭 I’m currently a trainee at [KLAB](https://www.klab.rw/)
+- 🔭 I’m currently an intern at [KLAB](https://www.klab.rw/)
 
 - 🌱 I’m currently learning Mobile Development with React Native at [KLAB](https://www.klab.rw/) and Software Engineering at [ALX](https://www.alxafrica.com/software-engineering-2022?gclid=CjwKCAjwquWVBhBrEiwAt1KmwmHgYbBDrbQqckjhMMOAs_KKa04B_aS3zcP37wfwTGe-0_vWxitDRBoC80cQAvD_BwE)
 
