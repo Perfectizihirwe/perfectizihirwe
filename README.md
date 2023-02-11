@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Perfect Gift IZIHIRWE</h1>
-<h3 align="center">A passionate Mobile developer from Kigali, Rwanda.</h3>
+<h3 align="center">A passionate software developer from Kigali, Rwanda.</h3>
 
 - 🔭 I’m currently a junior fullstack MERN developer at [KITECH](https://kitech.rw/)
 
