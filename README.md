@@ -25,5 +25,7 @@
 <a href="https://linkedin.com/in/perfectizihirwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perfectizihirwe" height="30" width="40" /></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Perfectizihirwe=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2> Here is a random joke that'll make you laugh! </h2>
 <p><img align="center" src="https://readme-jokes.vercel.app/api" alt="Random joke" /></p>
