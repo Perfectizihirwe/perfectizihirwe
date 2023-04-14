@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Perfect Gift IZIHIRWE</h1>
 <h3 align="center">A passionate software developer from Kigali, Rwanda.</h3>
 
-- 🔭 I’m currently a junior fullstack MERN developer at [KITECH](https://kitech.rw/)
-
-- 🌱 I’ve learnt Mobile Development with React Native at [KLAB](https://www.klab.rw/) and self taught myself the MERN stack.
+- 🔭 I’m currently a junior fullstack MERN (MongoDB Express React Node) developer and a .NET backend developer.
+- 
+- 🌱 I’ve learnt Mobile Development with React Native at [KLAB](https://www.klab.rw/) and self taught myself the MERN stack and .NET.
 
 - 📫 You can reach me at **perfectizihirwe@gmail.com**
 
