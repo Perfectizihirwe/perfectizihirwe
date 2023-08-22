@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Perfect Gift IZIHIRWE</h1>
 <h3 align="center">A passionate software developer from Kigali, Rwanda.</h3>
 
-- 🔭 I’m currently a junior fullstack MERN (MongoDB Express React Node) developer and a .NET backend developer.
+- 🔭 I’m currently a .NET developer at ICDL Africa with a focus on Software testing(Quality Assurance).
 
-- 🌱 I’ve learnt Mobile Development with React Native at [KLAB](https://www.klab.rw/) and self taught myself the MERN stack and .NET.
+- 🌱 I also develop with the MERN (MongoDB Express React Node) + React Native(Android & iOs)
+
+-  I went through Tech UpSkills Software development training at [KLAB](https://www.klab.rw/).
 
 - 📫 You can reach me at **perfectizihirwe@gmail.com**
 
-- ⚡ Fun fact **I spend more than half of my day laughing**
+- ⚡ Fun fact **I derive immense joy from laughing often.**
 
 <h2> Skills </h2>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
