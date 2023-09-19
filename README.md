@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at **perfectizihirwe@gmail.com**
 
-- ⚡ Fun fact **I derive immense joy from laughing often.**
+- ⚡ Fun fact: I'm a happy soul
 
 <h2> Skills </h2>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
