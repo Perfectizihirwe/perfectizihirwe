@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Perfect Gift IZIHIRWE</h1>
 <h3 align="center">A passionate software developer from Kigali, Rwanda.</h3>
 
-- 🔭 I’m currently a .NET developer at ICDL Africa with a focus on Software testing(Quality Assurance).
+- 🔭 I’m currently learning Go.
 
 - 🌱 I also develop with the MERN (MongoDB Express React Node) + React Native(Android & iOs)
 
